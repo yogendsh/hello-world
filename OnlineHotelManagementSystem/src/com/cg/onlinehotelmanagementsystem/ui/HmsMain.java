@@ -4,6 +4,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.InputMismatchException;
+import java.util.List;
 import java.util.Map;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
@@ -20,7 +21,7 @@ import com.cg.onlinehotelmanagementsystem.exception.PersonExceedException;
 import com.cg.onlinehotelmanagementsystem.exception.RoomAlreadyBookedException;
 import com.cg.onlinehotelmanagementsystem.exception.RoomNameException;
 import com.cg.onlinehotelmanagementsystem.service.IBookRoom;
-import com.cg.onlinehotelmanagementsystem.serviceimpl.BookRoomImpl;
+import com.cg.onlinehotelmanagementsystem.service.impl.BookRoomImpl;
 import com.cg.onlinehotelmanagementsystem.staticdb.ListData;
 import com.cg.onlinehotelmanagementsystem.utility.DateValidation;
 import com.cg.onlinehotelmanagementsystem.utility.ValidCity;
@@ -29,25 +30,18 @@ import com.cg.onlinehotelmanagementsystem.utility.ValidRoom;
 
 public class HmsMain {
 
-	@SuppressWarnings("unchecked")
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		@SuppressWarnings("unchecked")
+		public static void main(String[] args) {
 		ListData listData = new ListData();
 		ValidCity validCity = new ValidCity();
 		HotelDetailsDTO hotel;
-		ValidHotel validhotel = new ValidHotel();
+		ValidHotel validHotel = new ValidHotel();
 		ValidRoom validroom = new ValidRoom();
 		BookingDetailsDTO bookingdetails = new BookingDetailsDTO();
-		BookRoomDetailsDTO bookroomdetails = new BookRoomDetailsDTO();
 		Map<Integer, BookingDetailsDTO> cancelneedmap = null;
-		KingRoomDetailsDTO kingroomdetails = (KingRoomDetailsDTO) listData.kingRoomList().get(0);
-		QueenRoomDetailsDTO queenroomdetails = (QueenRoomDetailsDTO) listData.queenRoomList().get(0);
-		ACRoomDetailsDTO acroomdetails = (ACRoomDetailsDTO) listData.acRoomList().get(0);
-		NonACRoomDetailsDTO nonacroomdetails = (NonACRoomDetailsDTO) listData.nonACRoomList().get(0);
-		IBookRoom bookroom = null;
-		
+		List<RoomDetailsDTO> roomList=listData.typeOfRoom();
+		IBookRoom bookRoom = null;
 		int n = 0;
-		int area=0;
 		int hotelvariable=0;
 		@SuppressWarnings("resource")
 		Scanner scanner = new Scanner(System.in);
@@ -70,7 +64,6 @@ public class HmsMain {
 
 					n = scanner.nextInt();
 				} catch (Exception e) {
-					// TODO: handle exception
 					System.out.println("Press ctrl+f11 to continue!!!!");
 					break;
 					
@@ -80,10 +73,10 @@ public class HmsMain {
 					for (int i = 0; i < 60; i++)
 						System.out.print(" ");
 					System.out.println("List Of City");
-					for (int i = 0; i < listData.cityList().size(); i++) {
+					for (String cityName:(List<String>)listData.cityList()) {
 						for (int k = 0; k < 60; k++)
 							System.out.print(" ");
-						System.out.println(listData.cityList().get(i));
+						System.out.println(cityName);
 					}
 					for (int i = 0; i < 60; i++)
 						System.out.print(" ");
@@ -96,55 +89,52 @@ public class HmsMain {
 							System.out.print(" ");
 						System.out.println("List Of Area in " + cityname.toUpperCase());
 						if (j == 1) {
-							for (int i = 0; i < listData.areaListPune().size(); i++) {
+							for (String areaName:(List<String>)listData.areaListPune()) {
 								for (int k = 0; k < 60; k++)
 									System.out.print(" ");
-								System.out.println(listData.areaListPune().get(i));
+								System.out.println(areaName);
 							}
 							for (int i = 0; i < 60; i++)
 								System.out.print(" ");
 							System.out.println("Enter the Area");
 							
 							String areaname = scanner.next();
-							area = validCity.validAreaName(areaname, j);
-                            if(area==1);
+							validCity.validAreaName(areaname, j);
+                           
 						}
 						if (j == 2) {
-							for (int i = 0; i < listData.areaListJaipur().size(); i++) {
+							for (String areaName:(List<String>)listData.areaListJaipur()) {
 								for (int k = 0; k < 60; k++)
 									System.out.print(" ");
-								System.out.println(listData.areaListJaipur().get(i));
+								System.out.println(areaName);
 							}
 							for (int k = 0; k < 60; k++)
 								System.out.print(" ");
 							System.out.println("Enter the Area");
-							
 							String areaname = scanner.next();
-							area = validCity.validAreaName(areaname, j);
+							validCity.validAreaName(areaname, j);
 
 						}
 						if (j == 3) {
-							for (int i = 0; i < listData.areaListMumbai().size(); i++) {
+							for (String areaName:(List<String>)listData.areaListMumbai()) {
 								for (int k = 0; k < 60; k++)
 									System.out.print(" ");
-								System.out.println(listData.areaListMumbai().get(i));
+								System.out.println(areaName);
 							}
 							System.out.println("Enter the Area");
-							// scanner.nextLine();
 							String areaname = scanner.next();
-							area = validCity.validAreaName(areaname, j);
+							validCity.validAreaName(areaname, j);
 						}
 						
 						if (j == 4) {
-							for (int i = 0; i < listData.areaListDelhi().size(); i++) {
+							for (String areaName:(List<String>)listData.areaListDelhi()) {
 								for (int k = 0; k < 60; k++)
 									System.out.print(" ");
-								System.out.println(listData.areaListDelhi().get(i));
+								System.out.println(areaName);
 							}
 							System.out.println("Enter the Area");
-							// scanner.nextLine();
 							String areaname = scanner.next();
-							area = validCity.validAreaName(areaname, j);
+							validCity.validAreaName(areaname, j);
 						}
 						
 						for (int k = 0; k < 60; k++)
@@ -160,18 +150,17 @@ public class HmsMain {
 						for (int k = 0; k < 60; k++)
 							System.out.print(" ");
 						System.out.println("Enter the Hotel Name");
-						// scanner.nextLine();
 						String hotelname = scanner.next();
-						hotelvariable = validhotel.validHotelName(hotelname, listData);
+						hotelvariable = validHotel.validHotelName(hotelname, listData);
 						if(hotelvariable==1);
 						
 						for (int k = 0; k < 60; k++)
 							System.out.print(" ");
 						System.out.println("List of Room Available");
-						for (int i = 0; i < listData.typeOfRoom().size(); i++) {
+						for (String roomName:(List<String>)listData.typeOfRoom()) {
 							for (int k = 0; k < 60; k++)
 								System.out.print(" ");
-							System.out.println(listData.typeOfRoom().get(i));
+							System.out.println(roomName);
 						}
 						
 						for (int k = 0; k < 60; k++)
@@ -180,19 +169,17 @@ public class HmsMain {
 						
 						String room = scanner.next();
 						int roomtype = validroom.validRoomType(room, listData);
-						if (roomtype != 0) {
+						if (roomtype == 1) {
 						for (int k = 0; k < 60; k++)
 						System.out.print(" ");
 						System.out.println("Enter Check In Date in dd-MM-yyyy format");
 						String datecheckin = scanner.next();
-						
-						if (DateValidation.dateCheckIn(datecheckin, bookroomdetails)) {
+						if (DateValidation.dateCheckIn(datecheckin)) {
 						for (int k = 0; k < 60; k++)
 						System.out.print(" ");
 						System.out.println("Enter Check Out Date in dd-MM-yyyy format");
 						String datecheckout = scanner.next();
-					            
-						if (DateValidation.dateCheckout(datecheckout, bookroomdetails.getCheckin(),bookroomdetails)) {
+					    if (DateValidation.dateCheckout(datecheckout)) {
 						Date diffcheckin=new SimpleDateFormat("dd-MM-yyyy").parse(datecheckin);
 						Date diffcheckout=new SimpleDateFormat("dd-MM-yyyy").parse(datecheckout);
 						long diff = diffcheckout.getTime() - diffcheckin.getTime();
@@ -200,25 +187,25 @@ public class HmsMain {
 						for (int k = 0; k < 60; k++)
 						System.out.print(" ");
 						System.out.println("Enter Number of Persons");
-						int numberperson = scanner.nextInt();
-						bookroom = new BookRoomImpl();
+						int numberOfPerson = scanner.nextInt();
+						bookRoom = new BookRoomImpl();
 						if (roomtype == 1) {
-
-							kingroomdetails = (KingRoomDetailsDTO) bookroom.bookRoom(kingroomdetails, roomtype,
-									listData, numberperson, bookingdetails,diffDays);
+						HMSMainHelper mainHelper=new HMSMainHelper();
+						mainHelper.setRoomDetails(roomtype,diffcheckin,diffcheckout);
+									
 							
 							
 						}
 						if (roomtype == 2) {
-							queenroomdetails = (QueenRoomDetailsDTO) bookroom.bookRoom(queenroomdetails,
+							queenRoomDetails = (QueenRoomDetailsDTO) bookRoom.bookRoom(queenRoomDetails,
 									roomtype, listData, numberperson, bookingdetails,diffDays);
 						}
 						if (roomtype == 3) {
-							acroomdetails = (ACRoomDetailsDTO) bookroom.bookRoom(acroomdetails, roomtype,
+							acRoomDetails = (ACRoomDetailsDTO) bookRoom.bookRoom(acRoomDetails, roomtype,
 									listData, numberperson, bookingdetails,diffDays);
 						}
 						if (roomtype == 4) {
-							nonacroomdetails = (NonACRoomDetailsDTO) bookroom.bookRoom(nonacroomdetails,
+							nonAcRoomDetails = (NonACRoomDetailsDTO) bookRoom.bookRoom(nonAcRoomDetails,
 									roomtype, listData, numberperson, bookingdetails,diffDays);
 						}
 						Double bookingid = ThreadLocalRandom.current().nextDouble();
@@ -255,7 +242,7 @@ public class HmsMain {
 					if (bookidcancel == bookingdetails.getBooingid()) 
 					{
 						@SuppressWarnings("unused")
-						Object objcancel=bookroom.cancelRoom(bookidcancel, cancelneedmap);
+						Object objcancel=bookRoom.cancelRoom(bookidcancel, cancelneedmap);
 						System.out.println("Your Booking Details were as follows");
 						System.out.println(bookingdetails);
 						System.out.println("Booking is Canceled");
@@ -273,42 +260,42 @@ public class HmsMain {
 					break;
 				}
 			} catch (CityNameException cne) {
-				// TODO: handle exception
+				
 				System.out.println(cne.getMessage());
 			} catch (AreaNameException ane) {
-				// TODO: handle exception
+				
 				System.out.println(ane.getMessage());
 			} catch (HotelNameException hne) {
-				// TODO: handle exception
+				
 				System.out.println(hne.getMessage());
 			} catch (RoomNameException rne) {
-				// TODO: handle exception
+			
 				System.out.println(rne.getMessage());
 			} catch (DateCheckInException dce) {
-				// TODO: handle exception
+				
 				System.out.println(dce.getMessage());
 			} catch (DateCheckOutException dcoe) {
-				// TODO: handle exception
+				
 				System.out.println(dcoe.getMessage());
 			} catch (PersonExceedException pee) {
-				// TODO: handle exception
+				
 				System.out.println(pee.getMessage());
 			} catch (RoomAlreadyBookedException rabe) {
-				// TODO: handle exception
+				
 				System.out.println(rabe.getMessage());
 			} catch (NoRoomAvailable nre) {
-				// TODO: handle exception
+				
 				System.out.println(nre.getMessage());
 			} catch (CancelBookingException cbe) {
-				// TODO: handle exception
+				
 				System.out.println(cbe.getMessage());
 			}
 			catch (NumberFormatException nfe) {
 				System.out.println("Enter data properly");
-				// TODO: handle exception
+				
 			}
 			catch (InputMismatchException ime) {
-				// TODO: handle exception
+				
 			System.out.println("Enter data properly");
 			continue;
 				}
@@ -316,11 +303,11 @@ public class HmsMain {
 				System.out.println(pe.getMessage());
 			}
 			catch (NoSuchElementException nse) {
-				// TODO: handle exception
+				
 			}
 			
 			catch (Exception e) {
-				// TODO: handle exception
+				
 				System.exit(1);
 			}
 			

@@ -1,0 +1,1542 @@
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:3:	The class 'ACRoomDetailsDTO' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=8, WMC=9)
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:3:	The class 'ACRoomDetailsDTO' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=8, WMC=9)
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:4:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:4:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:5:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:5:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:6:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:6:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:7:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:7:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:9:	Parameter 'numberofacrooms' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:9:	Parameter 'numberofacrooms' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:9:	Parameter 'numberofperson' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:9:	Parameter 'numberofperson' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:9:	Parameter 'price' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:9:	Parameter 'price' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:9:	Parameter 'status' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:9:	Parameter 'status' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:9:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:9:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:21:	A getX() method which returns a boolean should be named isX()
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:21:	A getX() method which returns a boolean should be named isX()
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:33:	Parameter 'numberofacrooms' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:33:	Parameter 'numberofacrooms' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:37:	Parameter 'status' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:37:	Parameter 'status' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:41:	Parameter 'price' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:41:	Parameter 'price' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:45:	Parameter 'numberofperson' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/ACRoomDetailsDTO.java:45:	Parameter 'numberofperson' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/BookRoomDetailsDTO.java:5:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/dto/BookRoomDetailsDTO.java:5:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/dto/BookRoomDetailsDTO.java:5:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/BookRoomDetailsDTO.java:5:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/BookRoomDetailsDTO.java:5:	The class 'BookRoomDetailsDTO' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=4, WMC=4)
+src/com/cg/onlinehotelmanagementsystem/dto/BookRoomDetailsDTO.java:5:	The class 'BookRoomDetailsDTO' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=4, WMC=4)
+src/com/cg/onlinehotelmanagementsystem/dto/BookRoomDetailsDTO.java:6:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/BookRoomDetailsDTO.java:6:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/BookRoomDetailsDTO.java:7:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/BookRoomDetailsDTO.java:7:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/BookRoomDetailsDTO.java:11:	Parameter 'checkin' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/BookRoomDetailsDTO.java:11:	Parameter 'checkin' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/BookRoomDetailsDTO.java:17:	Parameter 'checkout' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/BookRoomDetailsDTO.java:17:	Parameter 'checkout' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:6:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:6:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:6:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:6:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:6:	The class 'BookingDetailsDTO' is suspected to be a Data Class (WOC=12.500%, NOPA=0, NOAM=7, WMC=8)
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:6:	The class 'BookingDetailsDTO' is suspected to be a Data Class (WOC=12.500%, NOPA=0, NOAM=7, WMC=8)
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:10:	When instantiating a SimpleDateFormat object, specify a Locale
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:10:	When instantiating a SimpleDateFormat object, specify a Locale
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:11:	When instantiating a SimpleDateFormat object, specify a Locale
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:11:	When instantiating a SimpleDateFormat object, specify a Locale
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:14:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:14:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:14:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:14:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:14:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:14:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:15:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:15:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:15:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:15:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:16:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:16:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:16:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:16:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:17:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:17:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:17:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:17:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:19:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:19:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:23:	Parameter 'bookingid' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:23:	Parameter 'bookingid' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:31:	Parameter 'checkinbook' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:31:	Parameter 'checkinbook' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:39:	Parameter 'checkoutbook' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:39:	Parameter 'checkoutbook' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:47:	Parameter 'price' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/BookingDetailsDTO.java:47:	Parameter 'price' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:5:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:5:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:5:	The class 'HotelDetailsDTO' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=4, WMC=5)
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:5:	The class 'HotelDetailsDTO' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=4, WMC=5)
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:6:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:6:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:6:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:6:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:6:	Private field 'hotelid' could be made final; it is only initialized in the declaration or constructor.
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:6:	Private field 'hotelid' could be made final; it is only initialized in the declaration or constructor.
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:7:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:7:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:7:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:7:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:7:	Private field 'hotelname' could be made final; it is only initialized in the declaration or constructor.
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:7:	Private field 'hotelname' could be made final; it is only initialized in the declaration or constructor.
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:8:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:8:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:8:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:8:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:8:	Private field 'hoteladdress' could be made final; it is only initialized in the declaration or constructor.
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:8:	Private field 'hoteladdress' could be made final; it is only initialized in the declaration or constructor.
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:9:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:9:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:9:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:9:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:9:	Private field 'numberofrooms' could be made final; it is only initialized in the declaration or constructor.
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:9:	Private field 'numberofrooms' could be made final; it is only initialized in the declaration or constructor.
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:11:	Parameter 'hoteladdress' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:11:	Parameter 'hoteladdress' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:11:	Parameter 'hotelid' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:11:	Parameter 'hotelid' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:11:	Parameter 'hotelname' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:11:	Parameter 'hotelname' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:11:	Parameter 'numberofrooms' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:11:	Parameter 'numberofrooms' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:11:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/HotelDetailsDTO.java:11:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:3:	The class 'KingRoomDetailsDTO' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=8, WMC=10)
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:3:	The class 'KingRoomDetailsDTO' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=8, WMC=10)
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:4:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:4:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:5:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:5:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:6:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:6:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:7:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:7:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:9:	Document empty constructor
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:9:	Document empty constructor
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:9:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:9:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:13:	Parameter 'numberofkingrooms' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:13:	Parameter 'numberofkingrooms' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:13:	Parameter 'numberofperson' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:13:	Parameter 'numberofperson' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:13:	Parameter 'price' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:13:	Parameter 'price' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:13:	Parameter 'status' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:13:	Parameter 'status' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:13:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:13:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:25:	Parameter 'numberofkingrooms' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:25:	Parameter 'numberofkingrooms' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:29:	A getX() method which returns a boolean should be named isX()
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:29:	A getX() method which returns a boolean should be named isX()
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:33:	Parameter 'status' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:33:	Parameter 'status' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:41:	Parameter 'price' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:41:	Parameter 'price' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:49:	Parameter 'numberofperson' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/KingRoomDetailsDTO.java:49:	Parameter 'numberofperson' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:3:	The class 'NonACRoomDetailsDTO' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=8, WMC=9)
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:3:	The class 'NonACRoomDetailsDTO' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=8, WMC=9)
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:4:	Avoid excessively long variable names like numberofnonacrooms
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:4:	Avoid excessively long variable names like numberofnonacrooms
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:4:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:4:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:5:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:5:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:6:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:6:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:7:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:7:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:9:	Avoid excessively long variable names like numberofnonacrooms
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:9:	Avoid excessively long variable names like numberofnonacrooms
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:9:	Parameter 'numberofnonacrooms' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:9:	Parameter 'numberofnonacrooms' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:9:	Parameter 'numberofperson' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:9:	Parameter 'numberofperson' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:9:	Parameter 'price' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:9:	Parameter 'price' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:9:	Parameter 'status' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:9:	Parameter 'status' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:9:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:9:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:21:	A getX() method which returns a boolean should be named isX()
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:21:	A getX() method which returns a boolean should be named isX()
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:25:	Avoid excessively long variable names like numberofnonacrooms
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:25:	Avoid excessively long variable names like numberofnonacrooms
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:25:	Parameter 'numberofnonacrooms' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:25:	Parameter 'numberofnonacrooms' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:29:	Parameter 'status' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:29:	Parameter 'status' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:33:	Parameter 'price' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:33:	Parameter 'price' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:37:	Parameter 'numberofperson' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/NonACRoomDetailsDTO.java:37:	Parameter 'numberofperson' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:3:	The class 'QueenRoomDetailsDTO' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=8, WMC=9)
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:3:	The class 'QueenRoomDetailsDTO' is suspected to be a Data Class (WOC=0.000%, NOPA=0, NOAM=8, WMC=9)
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:4:	Avoid excessively long variable names like numberofqueenrooms
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:4:	Avoid excessively long variable names like numberofqueenrooms
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:4:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:4:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:5:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:5:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:6:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:6:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:7:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:7:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:9:	Avoid excessively long variable names like numberofqueenrooms
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:9:	Avoid excessively long variable names like numberofqueenrooms
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:9:	Parameter 'numberofperson' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:9:	Parameter 'numberofperson' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:9:	Parameter 'numberofqueenrooms' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:9:	Parameter 'numberofqueenrooms' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:9:	Parameter 'price' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:9:	Parameter 'price' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:9:	Parameter 'status' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:9:	Parameter 'status' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:9:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:9:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:21:	Avoid excessively long variable names like numberofqueenrooms
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:21:	Avoid excessively long variable names like numberofqueenrooms
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:21:	Parameter 'numberofqueenrooms' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:21:	Parameter 'numberofqueenrooms' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:25:	Parameter 'status' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:25:	Parameter 'status' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:29:	Parameter 'price' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:29:	Parameter 'price' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:33:	Parameter 'numberofperson' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:33:	Parameter 'numberofperson' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:37:	A getX() method which returns a boolean should be named isX()
+src/com/cg/onlinehotelmanagementsystem/dto/QueenRoomDetailsDTO.java:37:	A getX() method which returns a boolean should be named isX()
+src/com/cg/onlinehotelmanagementsystem/dto/UserAddressDTO.java:3:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/dto/UserAddressDTO.java:3:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/dto/UserAddressDTO.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/UserAddressDTO.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/UserDataDTO.java:3:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/dto/UserDataDTO.java:3:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/dto/UserDataDTO.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/dto/UserDataDTO.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/AreaNameException.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/AreaNameException.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/AreaNameException.java:9:	Parameter 'msg' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/exception/AreaNameException.java:9:	Parameter 'msg' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/exception/AreaNameException.java:9:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/AreaNameException.java:9:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/CancelBookingException.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/CancelBookingException.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/CancelBookingException.java:5:	Parameter 'msg' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/exception/CancelBookingException.java:5:	Parameter 'msg' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/exception/CancelBookingException.java:5:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/CancelBookingException.java:5:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/CityNameException.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/CityNameException.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/CityNameException.java:5:	Parameter 'msg' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/exception/CityNameException.java:5:	Parameter 'msg' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/exception/CityNameException.java:5:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/CityNameException.java:5:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/DateCheckInException.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/DateCheckInException.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/DateCheckInException.java:5:	Parameter 'msg' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/exception/DateCheckInException.java:5:	Parameter 'msg' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/exception/DateCheckInException.java:5:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/DateCheckInException.java:5:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/DateCheckOutException.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/DateCheckOutException.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/DateCheckOutException.java:5:	Parameter 'msg' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/exception/DateCheckOutException.java:5:	Parameter 'msg' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/exception/DateCheckOutException.java:5:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/DateCheckOutException.java:5:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/HotelNameException.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/HotelNameException.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/HotelNameException.java:5:	Parameter 'msg' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/exception/HotelNameException.java:5:	Parameter 'msg' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/exception/HotelNameException.java:5:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/HotelNameException.java:5:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/NoRoomAvailable.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/NoRoomAvailable.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/NoRoomAvailable.java:5:	Parameter 'msg' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/exception/NoRoomAvailable.java:5:	Parameter 'msg' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/exception/NoRoomAvailable.java:5:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/NoRoomAvailable.java:5:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/PersonExceedException.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/PersonExceedException.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/PersonExceedException.java:6:	Parameter 'msg' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/exception/PersonExceedException.java:6:	Parameter 'msg' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/exception/PersonExceedException.java:6:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/PersonExceedException.java:6:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/RoomAlreadyBookedException.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/RoomAlreadyBookedException.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/RoomAlreadyBookedException.java:5:	Parameter 'msg' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/exception/RoomAlreadyBookedException.java:5:	Parameter 'msg' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/exception/RoomAlreadyBookedException.java:5:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/RoomAlreadyBookedException.java:5:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/RoomNameException.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/RoomNameException.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/RoomNameException.java:5:	Parameter 'msg' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/exception/RoomNameException.java:5:	Parameter 'msg' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/exception/RoomNameException.java:5:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/exception/RoomNameException.java:5:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/service/IBookRoom.java:12:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/service/IBookRoom.java:12:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/service/IBookRoom.java:13:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/service/IBookRoom.java:13:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/service/IBookRoom.java:16:	Avoid variables with short names like id
+src/com/cg/onlinehotelmanagementsystem/service/IBookRoom.java:16:	Avoid variables with short names like id
+src/com/cg/onlinehotelmanagementsystem/service/IBookRoom.java:16:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/service/IBookRoom.java:16:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/service/IHotel.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/service/IHotel.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/service/IRegistration.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/service/IRegistration.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/service/IRoom.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/service/IRoom.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/service/IRoom.java:4:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/service/IRoom.java:4:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/service/IRoom.java:5:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/service/IRoom.java:5:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/service/IRoom.java:6:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/service/IRoom.java:6:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:17:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:17:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:17:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:17:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:17:	The class 'BookRoomImpl' has a Modified Cyclomatic Complexity of 10 (Highest = 17).
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:17:	The class 'BookRoomImpl' has a Modified Cyclomatic Complexity of 10 (Highest = 17).
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:17:	The class 'BookRoomImpl' has a Standard Cyclomatic Complexity of 10 (Highest = 17).
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:17:	The class 'BookRoomImpl' has a Standard Cyclomatic Complexity of 10 (Highest = 17).
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:18:	Parameter 'bookingDetails' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:18:	Parameter 'bookingDetails' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:18:	Parameter 'diffdays' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:18:	Parameter 'diffdays' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:18:	Parameter 'listdata' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:18:	Parameter 'listdata' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:18:	Parameter 'numberperson' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:18:	Parameter 'numberperson' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:18:	Parameter 'object' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:18:	Parameter 'object' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:18:	Parameter 'roomtype' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:18:	Parameter 'roomtype' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:18:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:18:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:18:	The method 'bookRoom' has a Modified Cyclomatic Complexity of 17.
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:18:	The method 'bookRoom' has a Modified Cyclomatic Complexity of 17.
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:18:	The method 'bookRoom' has a Standard Cyclomatic Complexity of 17.
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:18:	The method 'bookRoom' has a Standard Cyclomatic Complexity of 17.
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:18:	The method 'bookRoom(Object, int, ListData, int, BookingDetailsDTO, int)' has a NCSS line count of 62.
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:18:	The method 'bookRoom(Object, int, ListData, int, BookingDetailsDTO, int)' has a NCSS line count of 62.
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:18:	The method 'bookRoom(Object, int, ListData, int, BookingDetailsDTO, int)' has a cyclomatic complexity of 29.
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:18:	The method 'bookRoom(Object, int, ListData, int, BookingDetailsDTO, int)' has a cyclomatic complexity of 29.
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:18:	The method 'bookRoom(Object, int, ListData, int, BookingDetailsDTO, int)' has an NPath complexity of 625
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:18:	The method 'bookRoom(Object, int, ListData, int, BookingDetailsDTO, int)' has an NPath complexity of 625
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:18:	The method 'bookRoom(Object, int, ListData, int, BookingDetailsDTO, int)' is missing an @Override annotation.
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:18:	The method 'bookRoom(Object, int, ListData, int, BookingDetailsDTO, int)' is missing an @Override annotation.
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:20:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:20:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:22:	Local variable 'kingRoomDetails' could be declared final
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:22:	Local variable 'kingRoomDetails' could be declared final
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:24:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:24:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:25:	Avoid using if...else statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:25:	Avoid using if...else statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:25:	The String literal "You Exceed Accomodate Size of Room" appears 4 times in this file; the first occurrence is on line 25
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:25:	The String literal "You Exceed Accomodate Size of Room" appears 4 times in this file; the first occurrence is on line 25
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:25:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:25:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:27:	Avoid unnecessary comparisons in boolean expressions
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:27:	Avoid unnecessary comparisons in boolean expressions
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:27:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:27:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:28:	Avoid using if...else statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:28:	Avoid using if...else statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:28:	The String literal "Room Already Booked" appears 4 times in this file; the first occurrence is on line 28
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:28:	The String literal "Room Already Booked" appears 4 times in this file; the first occurrence is on line 28
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:28:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:28:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:30:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:30:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:31:	Avoid using if...else statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:31:	Avoid using if...else statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:31:	The String literal "No Room Available" appears 4 times in this file; the first occurrence is on line 31
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:31:	The String literal "No Room Available" appears 4 times in this file; the first occurrence is on line 31
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:31:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:31:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:33:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:33:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:34:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:34:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:34:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:34:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:35:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:35:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:40:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:40:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:43:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:43:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:44:	Local variable 'queenRoomDetails' could be declared final
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:44:	Local variable 'queenRoomDetails' could be declared final
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:45:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:45:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:46:	Avoid using if...else statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:46:	Avoid using if...else statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:46:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:46:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:48:	Avoid unnecessary comparisons in boolean expressions
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:48:	Avoid unnecessary comparisons in boolean expressions
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:48:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:48:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:49:	Avoid using if...else statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:49:	Avoid using if...else statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:49:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:49:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:51:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:51:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:52:	Avoid using if...else statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:52:	Avoid using if...else statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:52:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:52:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:54:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:54:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:55:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:55:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:55:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:55:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:56:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:56:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:60:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:60:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:63:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:63:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:64:	Local variable 'acRoomDetails' could be declared final
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:64:	Local variable 'acRoomDetails' could be declared final
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:65:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:65:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:66:	Avoid using if...else statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:66:	Avoid using if...else statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:66:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:66:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:68:	Avoid unnecessary comparisons in boolean expressions
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:68:	Avoid unnecessary comparisons in boolean expressions
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:68:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:68:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:69:	Avoid using if...else statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:69:	Avoid using if...else statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:69:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:69:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:71:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:71:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:72:	Avoid using if...else statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:72:	Avoid using if...else statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:72:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:72:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:74:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:74:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:75:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:75:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:75:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:75:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:76:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:76:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:80:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:80:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:83:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:83:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:84:	Local variable 'nonacRoomDetails' could be declared final
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:84:	Local variable 'nonacRoomDetails' could be declared final
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:85:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:85:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:86:	Avoid using if...else statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:86:	Avoid using if...else statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:86:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:86:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:88:	Avoid unnecessary comparisons in boolean expressions
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:88:	Avoid unnecessary comparisons in boolean expressions
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:88:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:88:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:89:	Avoid using if...else statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:89:	Avoid using if...else statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:89:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:89:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:91:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:91:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:92:	Avoid using if...else statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:92:	Avoid using if...else statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:92:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:92:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:94:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:94:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:95:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:95:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:95:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:95:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:96:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:96:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:100:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:100:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:106:	Avoid variables with short names like id
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:106:	Avoid variables with short names like id
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:106:	Parameter 'cancelneedmap' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:106:	Parameter 'cancelneedmap' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:106:	Parameter 'id' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:106:	Parameter 'id' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:106:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:106:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:106:	The method 'cancelRoom(int, Map)' is missing an @Override annotation.
+src/com/cg/onlinehotelmanagementsystem/service/impl/BookRoomImpl.java:106:	The method 'cancelRoom(int, Map)' is missing an @Override annotation.
+src/com/cg/onlinehotelmanagementsystem/service/impl/HotelDetailsImpl.java:3:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/service/impl/HotelDetailsImpl.java:3:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/service/impl/HotelDetailsImpl.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/service/impl/HotelDetailsImpl.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/service/impl/RoomImpl.java:5:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/service/impl/RoomImpl.java:5:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/service/impl/RoomImpl.java:5:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/service/impl/RoomImpl.java:5:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/service/impl/UserSignUp.java:3:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/service/impl/UserSignUp.java:3:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/service/impl/UserSignUp.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/service/impl/UserSignUp.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/HotelData.java:3:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/staticdb/HotelData.java:3:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/staticdb/HotelData.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/HotelData.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:15:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:15:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:15:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:15:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:15:	This class has too many methods, consider refactoring it.
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:15:	This class has too many methods, consider refactoring it.
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:16:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:16:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:18:	Local variable 'mukundnagar' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:18:	Local variable 'mukundnagar' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:23:	Local variable 'sahakarnagar' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:23:	Local variable 'sahakarnagar' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:27:	Local variable 'delhiHotel' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:27:	Local variable 'delhiHotel' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:32:	Local variable 'mumbaiHotel' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:32:	Local variable 'mumbaiHotel' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:37:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:37:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:39:	Local variable 'malviyanagar' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:39:	Local variable 'malviyanagar' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:43:	Local variable 'jhotwara' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:43:	Local variable 'jhotwara' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:47:	Local variable 'kartarpura' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:47:	Local variable 'kartarpura' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:51:	Local variable 'sanganer' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:51:	Local variable 'sanganer' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:55:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:55:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:57:	Local variable 'thane' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:57:	Local variable 'thane' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:61:	Local variable 'andheri' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:61:	Local variable 'andheri' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:65:	Local variable 'bandra' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:65:	Local variable 'bandra' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:69:	Local variable 'civillines' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:69:	Local variable 'civillines' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:73:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:73:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:75:	Local variable 'mukherjinagar' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:75:	Local variable 'mukherjinagar' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:79:	Local variable 'rajivchowk' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:79:	Local variable 'rajivchowk' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:83:	Local variable 'hauzkaus' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:83:	Local variable 'hauzkaus' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:87:	Local variable 'rajendranagar' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:87:	Local variable 'rajendranagar' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:91:	The String literal "rawtypes" appears 13 times in this file; the first occurrence is on line 91
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:91:	The String literal "rawtypes" appears 13 times in this file; the first occurrence is on line 91
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:92:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:92:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:94:	Local variable 'citylist' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:94:	Local variable 'citylist' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:103:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:103:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:105:	Local variable 'arealistpune' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:105:	Local variable 'arealistpune' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:113:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:113:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:115:	Local variable 'arealistjaipur' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:115:	Local variable 'arealistjaipur' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:123:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:123:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:125:	Local variable 'arealistmumbai' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:125:	Local variable 'arealistmumbai' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:133:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:133:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:135:	Local variable 'arealistdelhi' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:135:	Local variable 'arealistdelhi' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:143:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:143:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:145:	Local variable 'hotellist' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:145:	Local variable 'hotellist' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:151:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:151:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:153:	Local variable 'kingroomdetail' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:153:	Local variable 'kingroomdetail' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:159:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:159:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:161:	Local variable 'queenroomdetail' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:161:	Local variable 'queenroomdetail' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:167:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:167:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:169:	Local variable 'acroomdetail' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:169:	Local variable 'acroomdetail' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:175:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:175:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:177:	Local variable 'nonacroomdetail' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:177:	Local variable 'nonacroomdetail' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:183:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:183:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:185:	Local variable 'typeofroom' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:185:	Local variable 'typeofroom' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:193:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:193:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:194:	Local variable 'bookdetail' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:194:	Local variable 'bookdetail' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:195:	Consider simply returning the value vs storing it in local variable 'bookdetail'
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:195:	Consider simply returning the value vs storing it in local variable 'bookdetail'
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:198:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:198:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:200:	If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:200:	If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:200:	Local variable 'cancelbookmap' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:200:	Local variable 'cancelbookmap' could be declared final
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:201:	Consider simply returning the value vs storing it in local variable 'cancelbookmap'
+src/com/cg/onlinehotelmanagementsystem/staticdb/ListData.java:201:	Consider simply returning the value vs storing it in local variable 'cancelbookmap'
+src/com/cg/onlinehotelmanagementsystem/staticdb/UserDatabase.java:3:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/staticdb/UserDatabase.java:3:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/staticdb/UserDatabase.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/staticdb/UserDatabase.java:3:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:31:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:31:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:31:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:31:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:31:	The class 'HmsMain' has a Modified Cyclomatic Complexity of 67 (Highest = 66).
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:31:	The class 'HmsMain' has a Modified Cyclomatic Complexity of 67 (Highest = 66).
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:31:	The class 'HmsMain' has a Standard Cyclomatic Complexity of 68 (Highest = 67).
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:31:	The class 'HmsMain' has a Standard Cyclomatic Complexity of 68 (Highest = 67).
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:34:	Avoid really long methods.
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:34:	Avoid really long methods.
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:34:	Found 'UR'-anomaly for variable 'j' (lines '34'-'108').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:34:	Found 'UR'-anomaly for variable 'j' (lines '34'-'108').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:34:	Parameter 'args' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:34:	Parameter 'args' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:34:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:34:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:34:	The method 'main' has a Modified Cyclomatic Complexity of 66.
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:34:	The method 'main' has a Modified Cyclomatic Complexity of 66.
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:34:	The method 'main' has a Standard Cyclomatic Complexity of 67.
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:34:	The method 'main' has a Standard Cyclomatic Complexity of 67.
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:34:	The method 'main(String)' has a NCSS line count of 213.
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:34:	The method 'main(String)' has a NCSS line count of 213.
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:34:	The method 'main(String)' has a cyclomatic complexity of 67.
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:34:	The method 'main(String)' has a cyclomatic complexity of 67.
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:34:	The method 'main(String)' has an NPath complexity of 2147483647
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:34:	The method 'main(String)' has an NPath complexity of 2147483647
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:34:	The method main() has an NCSS line count of 213
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:34:	The method main() has an NCSS line count of 213
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:35:	Local variable 'listData' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:35:	Local variable 'listData' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:36:	Local variable 'validCity' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:36:	Local variable 'validCity' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:38:	Local variable 'validHotel' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:38:	Local variable 'validHotel' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:39:	Local variable 'validroom' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:39:	Local variable 'validroom' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:40:	Local variable 'bookingdetails' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:40:	Local variable 'bookingdetails' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:41:	Local variable 'bookroomdetails' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:41:	Local variable 'bookroomdetails' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:42:	Found 'DD'-anomaly for variable 'cancelneedmap' (lines '42'-'225').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:42:	Found 'DD'-anomaly for variable 'cancelneedmap' (lines '42'-'225').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:43:	Found 'DD'-anomaly for variable 'kingRoomDetails' (lines '43'-'202').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:43:	Found 'DD'-anomaly for variable 'kingRoomDetails' (lines '43'-'202').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:43:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:43:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:44:	Found 'DD'-anomaly for variable 'queenRoomDetails' (lines '44'-'208').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:44:	Found 'DD'-anomaly for variable 'queenRoomDetails' (lines '44'-'208').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:44:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:44:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:45:	Found 'DD'-anomaly for variable 'acRoomDetails' (lines '45'-'212').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:45:	Found 'DD'-anomaly for variable 'acRoomDetails' (lines '45'-'212').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:46:	Found 'DD'-anomaly for variable 'nonAcRoomDetails' (lines '46'-'216').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:46:	Found 'DD'-anomaly for variable 'nonAcRoomDetails' (lines '46'-'216').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:46:	Found 'DU'-anomaly for variable 'nonAcRoomDetails' (lines '46'-'324').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:46:	Found 'DU'-anomaly for variable 'nonAcRoomDetails' (lines '46'-'324').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:46:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:46:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:47:	Found 'DD'-anomaly for variable 'bookRoom' (lines '47'-'199').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:47:	Found 'DD'-anomaly for variable 'bookRoom' (lines '47'-'199').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:49:	Avoid variables with short names like n
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:49:	Avoid variables with short names like n
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:49:	Found 'DD'-anomaly for variable 'n' (lines '49'-'71').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:49:	Found 'DD'-anomaly for variable 'n' (lines '49'-'71').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:51:	Found 'DD'-anomaly for variable 'hotelvariable' (lines '51'-'160').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:51:	Found 'DD'-anomaly for variable 'hotelvariable' (lines '51'-'160').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:52:	Local variable 'scanner' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:52:	Local variable 'scanner' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:54:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:54:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:54:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:54:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:55:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:55:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:56:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:56:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:57:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:57:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:57:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:57:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:58:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:58:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:61:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:61:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:62:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:62:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:62:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:62:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:63:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:63:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:64:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:64:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:65:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:65:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:65:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:65:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:66:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:66:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:67:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:67:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:71:	Found 'DD'-anomaly for variable 'n' (lines '71'-'71').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:71:	Found 'DD'-anomaly for variable 'n' (lines '71'-'71').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:71:	Found 'DU'-anomaly for variable 'n' (lines '71'-'324').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:71:	Found 'DU'-anomaly for variable 'n' (lines '71'-'324').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:72:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:72:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:73:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:73:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:77:	A high ratio of statements to labels in a switch statement.  Consider refactoring.
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:77:	A high ratio of statements to labels in a switch statement.  Consider refactoring.
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:79:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:79:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:79:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:79:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:80:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:80:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:81:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:81:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:82:	Local variable 'cityName' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:82:	Local variable 'cityName' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:83:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:83:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:83:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:83:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:84:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:84:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:85:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:85:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:87:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:87:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:87:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:87:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:88:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:88:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:89:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:89:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:91:	Local variable 'cityname' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:91:	Local variable 'cityname' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:92:	Avoid variables with short names like j
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:92:	Avoid variables with short names like j
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:92:	Local variable 'j' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:92:	Local variable 'j' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:93:	Avoid if (x != y) ..; else ..;
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:93:	Avoid if (x != y) ..; else ..;
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:94:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:94:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:94:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:94:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:95:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:95:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:96:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:96:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:96:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:96:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:96:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:96:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:97:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:97:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:98:	Local variable 'areaName' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:98:	Local variable 'areaName' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:99:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:99:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:99:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:99:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:100:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:100:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:101:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:101:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:103:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:103:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:103:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:103:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:104:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:104:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:105:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:105:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:105:	The String literal "Enter the Area" appears 4 times in this file; the first occurrence is on line 105
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:105:	The String literal "Enter the Area" appears 4 times in this file; the first occurrence is on line 105
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:107:	Local variable 'areaname' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:107:	Local variable 'areaname' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:111:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:111:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:112:	Local variable 'areaName' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:112:	Local variable 'areaName' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:113:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:113:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:113:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:113:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:114:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:114:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:115:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:115:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:117:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:117:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:117:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:117:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:118:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:118:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:119:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:119:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:120:	Local variable 'areaname' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:120:	Local variable 'areaname' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:124:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:124:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:125:	Local variable 'areaName' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:125:	Local variable 'areaName' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:126:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:126:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:126:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:126:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:127:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:127:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:128:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:128:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:130:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:130:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:131:	Local variable 'areaname' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:131:	Local variable 'areaname' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:135:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:135:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:136:	Local variable 'areaName' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:136:	Local variable 'areaName' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:137:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:137:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:137:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:137:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:138:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:138:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:139:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:139:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:141:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:141:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:142:	Local variable 'areaname' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:142:	Local variable 'areaname' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:146:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:146:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:146:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:146:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:147:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:147:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:148:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:148:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:149:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:149:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:150:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:150:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:151:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:151:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:151:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:151:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:152:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:152:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:153:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:153:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:156:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:156:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:156:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:156:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:157:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:157:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:158:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:158:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:159:	Local variable 'hotelname' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:159:	Local variable 'hotelname' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:161:	An empty statement (semicolon) not part of a loop
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:161:	An empty statement (semicolon) not part of a loop
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:161:	Avoid empty if statements
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:161:	Avoid empty if statements
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:161:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:161:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:161:	Avoid using if statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:161:	Avoid using if statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:161:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:161:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:163:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:163:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:163:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:163:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:164:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:164:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:165:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:165:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:166:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:166:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:167:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:167:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:167:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:167:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:168:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:168:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:169:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:169:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:169:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:169:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:169:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:169:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:172:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:172:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:172:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:172:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:173:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:173:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:174:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:174:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:176:	Local variable 'room' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:176:	Local variable 'room' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:177:	Local variable 'roomtype' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:177:	Local variable 'roomtype' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:179:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:179:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:179:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:179:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:180:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:180:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:181:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:181:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:182:	Local variable 'datecheckin' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:182:	Local variable 'datecheckin' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:185:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:185:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:185:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:185:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:186:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:186:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:187:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:187:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:188:	Local variable 'datecheckout' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:188:	Local variable 'datecheckout' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:190:	Deeply nested if..then statements are hard to read
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:190:	Deeply nested if..then statements are hard to read
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:191:	Avoid instantiating new objects inside loops
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:191:	Avoid instantiating new objects inside loops
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:191:	Local variable 'diffcheckin' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:191:	Local variable 'diffcheckin' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:191:	The String literal "dd-MM-yyyy" appears 4 times in this file; the first occurrence is on line 191
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:191:	The String literal "dd-MM-yyyy" appears 4 times in this file; the first occurrence is on line 191
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:191:	When instantiating a SimpleDateFormat object, specify a Locale
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:191:	When instantiating a SimpleDateFormat object, specify a Locale
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:192:	Avoid instantiating new objects inside loops
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:192:	Avoid instantiating new objects inside loops
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:192:	Local variable 'diffcheckout' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:192:	Local variable 'diffcheckout' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:192:	When instantiating a SimpleDateFormat object, specify a Locale
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:192:	When instantiating a SimpleDateFormat object, specify a Locale
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:193:	Local variable 'diff' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:193:	Local variable 'diff' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:194:	Found 'DU'-anomaly for variable 'diffDays' (lines '194'-'324').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:194:	Found 'DU'-anomaly for variable 'diffDays' (lines '194'-'324').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:194:	Local variable 'diffDays' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:194:	Local variable 'diffDays' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:195:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:195:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:195:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:195:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:196:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:196:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:197:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:197:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:198:	Found 'DU'-anomaly for variable 'numberperson' (lines '198'-'324').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:198:	Found 'DU'-anomaly for variable 'numberperson' (lines '198'-'324').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:198:	Local variable 'numberperson' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:198:	Local variable 'numberperson' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:199:	Avoid instantiating new objects inside loops
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:199:	Avoid instantiating new objects inside loops
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:199:	Found 'DU'-anomaly for variable 'bookRoom' (lines '199'-'324').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:199:	Found 'DU'-anomaly for variable 'bookRoom' (lines '199'-'324').
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:200:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:200:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:207:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:207:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:211:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:211:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:215:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:215:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:219:	Local variable 'bookingid' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:219:	Local variable 'bookingid' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:219:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:219:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:220:	Local variable 'bookid' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:220:	Local variable 'bookid' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:220:	Number 1000000 should separate every third digit with an underscore
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:220:	Number 1000000 should separate every third digit with an underscore
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:222:	Avoid instantiating new objects inside loops
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:222:	Avoid instantiating new objects inside loops
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:222:	When instantiating a SimpleDateFormat object, specify a Locale
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:222:	When instantiating a SimpleDateFormat object, specify a Locale
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:224:	Avoid instantiating new objects inside loops
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:224:	Avoid instantiating new objects inside loops
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:224:	When instantiating a SimpleDateFormat object, specify a Locale
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:224:	When instantiating a SimpleDateFormat object, specify a Locale
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:227:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:227:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:227:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:227:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:228:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:228:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:229:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:229:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:230:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:230:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:231:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:231:	Avoid using for statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:231:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:231:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:232:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:232:	System.out.print is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:233:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:233:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:243:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:243:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:248:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:248:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:249:	Local variable 'bookidcancel' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:249:	Local variable 'bookidcancel' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:252:	Local variable 'objcancel' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:252:	Local variable 'objcancel' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:254:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:254:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:255:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:255:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:256:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:256:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:257:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:257:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:259:	Avoid using if...else statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:259:	Avoid using if...else statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:259:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:259:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:259:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:259:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:264:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:264:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:265:	Local variable 'count' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:265:	Local variable 'count' could be declared final
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:266:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:266:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:266:	Avoid using if statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:266:	Avoid using if statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:267:	System.exit() should not be used in J2EE/JEE apps
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:267:	System.exit() should not be used in J2EE/JEE apps
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:267:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:267:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:272:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:272:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:275:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:275:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:278:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:278:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:281:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:281:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:284:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:284:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:287:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:287:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:290:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:290:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:293:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:293:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:296:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:296:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:299:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:299:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:302:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:302:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:307:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:307:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:311:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:311:	System.out.println is used
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:313:	Avoid empty catch blocks
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:313:	Avoid empty catch blocks
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:317:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:317:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:319:	System.exit() should not be used in J2EE/JEE apps
+src/com/cg/onlinehotelmanagementsystem/ui/HmsMain.java:319:	System.exit() should not be used in J2EE/JEE apps
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:13:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:13:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:13:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:13:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:13:	The utility class name 'DateValidation' doesn't match '[A-Z][a-zA-Z0-9]+(Utils?|Helper)'
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:13:	The utility class name 'DateValidation' doesn't match '[A-Z][a-zA-Z0-9]+(Utils?|Helper)'
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:14:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:14:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:14:	The String literal "dd-MM-yyyy" appears 5 times in this file; the first occurrence is on line 14
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:14:	The String literal "dd-MM-yyyy" appears 5 times in this file; the first occurrence is on line 14
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:14:	To avoid mistakes add a comment at the beginning of the DATE_FORMAT field if you want a default access modifier
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:14:	To avoid mistakes add a comment at the beginning of the DATE_FORMAT field if you want a default access modifier
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:14:	Use explicit scoping instead of the default package private level
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:14:	Use explicit scoping instead of the default package private level
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:15:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:15:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:15:	To avoid mistakes add a comment at the beginning of the dateformat field if you want a default access modifier
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:15:	To avoid mistakes add a comment at the beginning of the dateformat field if you want a default access modifier
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:15:	Use explicit scoping instead of the default package private level
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:15:	Use explicit scoping instead of the default package private level
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:15:	When instantiating a SimpleDateFormat object, specify a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:15:	When instantiating a SimpleDateFormat object, specify a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:17:	Parameter 'bookroomdetails' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:17:	Parameter 'bookroomdetails' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:17:	Parameter 'checkin' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:17:	Parameter 'checkin' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:17:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:17:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:21:	Static DateFormatter objects should be accessed in a synchronized manner
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:21:	Static DateFormatter objects should be accessed in a synchronized manner
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:21:	Static Formatter objects should be accessed in a synchronized manner
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:21:	Static Formatter objects should be accessed in a synchronized manner
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:23:	Local variable 'checkindate' could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:23:	Local variable 'checkindate' could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:23:	When instantiating a SimpleDateFormat object, specify a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:23:	When instantiating a SimpleDateFormat object, specify a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:24:	Local variable 'newPattern' could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:24:	Local variable 'newPattern' could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:24:	When instantiating a SimpleDateFormat object, specify a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:24:	When instantiating a SimpleDateFormat object, specify a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:25:	Local variable 'currentdatestring' could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:25:	Local variable 'currentdatestring' could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:26:	Local variable 'currentdate' could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:26:	Local variable 'currentdate' could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:26:	When instantiating a SimpleDateFormat object, specify a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:26:	When instantiating a SimpleDateFormat object, specify a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:27:	Static DateFormatter objects should be accessed in a synchronized manner
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:27:	Static DateFormatter objects should be accessed in a synchronized manner
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:27:	Static Formatter objects should be accessed in a synchronized manner
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:27:	Static Formatter objects should be accessed in a synchronized manner
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:33:	The String literal "This Date is not valid" appears 4 times in this file; the first occurrence is on line 33
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:33:	The String literal "This Date is not valid" appears 4 times in this file; the first occurrence is on line 33
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:37:	New exception is thrown in catch block, original stack trace may be lost
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:37:	New exception is thrown in catch block, original stack trace may be lost
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:43:	Parameter 'bookroomdetails' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:43:	Parameter 'bookroomdetails' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:43:	Parameter 'checkindate' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:43:	Parameter 'checkindate' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:43:	Parameter 'checkout' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:43:	Parameter 'checkout' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:43:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:43:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:46:	Static DateFormatter objects should be accessed in a synchronized manner
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:46:	Static DateFormatter objects should be accessed in a synchronized manner
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:46:	Static Formatter objects should be accessed in a synchronized manner
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:46:	Static Formatter objects should be accessed in a synchronized manner
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:47:	Local variable 'checkoutdate' could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:47:	Local variable 'checkoutdate' could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:47:	When instantiating a SimpleDateFormat object, specify a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:47:	When instantiating a SimpleDateFormat object, specify a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:48:	Static DateFormatter objects should be accessed in a synchronized manner
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:48:	Static DateFormatter objects should be accessed in a synchronized manner
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:48:	Static Formatter objects should be accessed in a synchronized manner
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:48:	Static Formatter objects should be accessed in a synchronized manner
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:57:	New exception is thrown in catch block, original stack trace may be lost
+src/com/cg/onlinehotelmanagementsystem/utility/DateValidation.java:57:	New exception is thrown in catch block, original stack trace may be lost
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:7:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:7:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:7:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:7:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:7:	The class 'ValidCity' has a Modified Cyclomatic Complexity of 8 (Highest = 13).
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:7:	The class 'ValidCity' has a Modified Cyclomatic Complexity of 8 (Highest = 13).
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:7:	The class 'ValidCity' has a Standard Cyclomatic Complexity of 8 (Highest = 13).
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:7:	The class 'ValidCity' has a Standard Cyclomatic Complexity of 8 (Highest = 13).
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:8:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:8:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:8:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:8:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:8:	To avoid mistakes add a comment at the beginning of the listdata field if you want a default access modifier
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:8:	To avoid mistakes add a comment at the beginning of the listdata field if you want a default access modifier
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:8:	Use explicit scoping instead of the default package private level
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:8:	Use explicit scoping instead of the default package private level
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:9:	Parameter 'cityname' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:9:	Parameter 'cityname' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:9:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:9:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:11:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:11:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:13:	Local variable 'check' could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:13:	Local variable 'check' could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:13:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:13:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:15:	Avoid using if statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:15:	Avoid using if statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:15:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:15:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:15:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:15:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:15:	Using equalsIgnoreCase() is cleaner than using toUpperCase/toLowerCase().equals().
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:15:	Using equalsIgnoreCase() is cleaner than using toUpperCase/toLowerCase().equals().
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:15:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:15:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:15:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:15:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:16:	Avoid reassigning the loop control variable 'i'
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:16:	Avoid reassigning the loop control variable 'i'
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:16:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:16:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:21:	Parameter 'areaname' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:21:	Parameter 'areaname' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:21:	Parameter 'loc' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:21:	Parameter 'loc' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:21:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:21:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:21:	The method 'validAreaName' has a Modified Cyclomatic Complexity of 13.
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:21:	The method 'validAreaName' has a Modified Cyclomatic Complexity of 13.
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:21:	The method 'validAreaName' has a Standard Cyclomatic Complexity of 13.
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:21:	The method 'validAreaName' has a Standard Cyclomatic Complexity of 13.
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:21:	The method 'validAreaName(String, int)' has a cyclomatic complexity of 14.
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:21:	The method 'validAreaName(String, int)' has a cyclomatic complexity of 14.
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:21:	The method 'validAreaName(String, int)' has an NPath complexity of 256
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:21:	The method 'validAreaName(String, int)' has an NPath complexity of 256
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:23:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:23:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:25:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:25:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:27:	Local variable 'check' could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:27:	Local variable 'check' could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:27:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:27:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:29:	Avoid using if statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:29:	Avoid using if statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:29:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:29:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:29:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:29:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:29:	Using equalsIgnoreCase() is cleaner than using toUpperCase/toLowerCase().equals().
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:29:	Using equalsIgnoreCase() is cleaner than using toUpperCase/toLowerCase().equals().
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:29:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:29:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:29:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:29:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:30:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:30:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:30:	Avoid reassigning the loop control variable 'i'
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:30:	Avoid reassigning the loop control variable 'i'
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:30:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:30:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:33:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:33:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:35:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:35:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:37:	Local variable 'check' could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:37:	Local variable 'check' could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:37:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:37:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:39:	Avoid using if statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:39:	Avoid using if statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:39:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:39:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:39:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:39:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:39:	Using equalsIgnoreCase() is cleaner than using toUpperCase/toLowerCase().equals().
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:39:	Using equalsIgnoreCase() is cleaner than using toUpperCase/toLowerCase().equals().
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:39:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:39:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:39:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:39:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:40:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:40:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:40:	Avoid reassigning the loop control variable 'i'
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:40:	Avoid reassigning the loop control variable 'i'
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:40:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:40:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:43:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:43:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:47:	Local variable 'check' could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:47:	Local variable 'check' could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:47:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:47:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:49:	Avoid using if statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:49:	Avoid using if statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:49:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:49:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:49:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:49:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:49:	Using equalsIgnoreCase() is cleaner than using toUpperCase/toLowerCase().equals().
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:49:	Using equalsIgnoreCase() is cleaner than using toUpperCase/toLowerCase().equals().
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:49:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:49:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:49:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:49:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:50:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:50:	A method should have only one exit point, and that should be the last statement in the method
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:50:	Avoid reassigning the loop control variable 'i'
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:50:	Avoid reassigning the loop control variable 'i'
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:50:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:50:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:53:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:53:	Avoid using Literals in Conditional Statements
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:57:	Local variable 'check' could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:57:	Local variable 'check' could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:57:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:57:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:58:	Avoid using if statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:58:	Avoid using if statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:58:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:58:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:58:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:58:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:58:	Using equalsIgnoreCase() is cleaner than using toUpperCase/toLowerCase().equals().
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:58:	Using equalsIgnoreCase() is cleaner than using toUpperCase/toLowerCase().equals().
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:58:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:58:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:58:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:58:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:59:	Avoid reassigning the loop control variable 'i'
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:59:	Avoid reassigning the loop control variable 'i'
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:59:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidCity.java:59:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:7:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:7:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:7:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:7:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:8:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:8:	Field comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:8:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:8:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:8:	To avoid mistakes add a comment at the beginning of the hotel field if you want a default access modifier
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:8:	To avoid mistakes add a comment at the beginning of the hotel field if you want a default access modifier
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:8:	Use explicit scoping instead of the default package private level
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:8:	Use explicit scoping instead of the default package private level
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:10:	Parameter 'listdata' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:10:	Parameter 'listdata' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:10:	Parameter 'name' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:10:	Parameter 'name' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:10:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:10:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:11:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:11:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:13:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:13:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:15:	Avoid using if statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:15:	Avoid using if statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:15:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:15:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:15:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:15:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:15:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:15:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:15:	Using equalsIgnoreCase() is cleaner than using toUpperCase/toLowerCase().equals().
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:15:	Using equalsIgnoreCase() is cleaner than using toUpperCase/toLowerCase().equals().
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:15:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:15:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:15:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:15:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:16:	Avoid reassigning the loop control variable 'i'
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:16:	Avoid reassigning the loop control variable 'i'
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:16:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidHotel.java:16:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:6:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:6:	Each class should declare at least one constructor
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:6:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:6:	Header comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:7:	Parameter 'listdata' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:7:	Parameter 'listdata' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:7:	Parameter 'typename' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:7:	Parameter 'typename' is not assigned and could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:7:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:7:	Public method and constructor comments are required
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:9:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:9:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:11:	Local variable 'check' could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:11:	Local variable 'check' could be declared final
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:11:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:11:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:13:	Avoid using if statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:13:	Avoid using if statements without curly braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:13:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:13:	Potential violation of Law of Demeter (method chain calls)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:13:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:13:	Potential violation of Law of Demeter (object not created locally)
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:13:	Using equalsIgnoreCase() is cleaner than using toUpperCase/toLowerCase().equals().
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:13:	Using equalsIgnoreCase() is cleaner than using toUpperCase/toLowerCase().equals().
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:13:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:13:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:13:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:13:	When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:14:	Avoid reassigning the loop control variable 'i'
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:14:	Avoid reassigning the loop control variable 'i'
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:14:	This statement should have braces
+src/com/cg/onlinehotelmanagementsystem/utility/ValidRoom.java:14:	This statement should have braces
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:22:	Each class should declare at least one constructor
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:22:	Each class should declare at least one constructor
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:22:	Header comments are required
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:22:	Header comments are required
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:22:	To avoid mistakes add a comment at the beginning of the BookRoomImplTest top-level class if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:22:	To avoid mistakes add a comment at the beginning of the BookRoomImplTest top-level class if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:23:	Field comments are required
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:23:	Field comments are required
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:23:	To avoid mistakes add a comment at the beginning of the bookroomiml field if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:23:	To avoid mistakes add a comment at the beginning of the bookroomiml field if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:23:	Use explicit scoping instead of the default package private level
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:23:	Use explicit scoping instead of the default package private level
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:24:	Use explicit scoping instead of the default package private level
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:24:	Use explicit scoping instead of the default package private level
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:25:	JUnit tests should include assert() or fail()
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:25:	JUnit tests should include assert() or fail()
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:25:	To avoid mistakes add a comment at the beginning of the testBookRoom method if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:25:	To avoid mistakes add a comment at the beginning of the testBookRoom method if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:31:	Use explicit scoping instead of the default package private level
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:31:	Use explicit scoping instead of the default package private level
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:32:	To avoid mistakes add a comment at the beginning of the testCancelRoom method if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:32:	To avoid mistakes add a comment at the beginning of the testCancelRoom method if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:33:	Explicit type arguments can be replaced by Diamond Operator
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:33:	Explicit type arguments can be replaced by Diamond Operator
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:33:	If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:33:	If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:33:	Local variable 'map' could be declared final
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:33:	Local variable 'map' could be declared final
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:34:	Avoid variables with short names like bt
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:34:	Avoid variables with short names like bt
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:34:	Local variable 'bt' could be declared final
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:34:	Local variable 'bt' could be declared final
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:35:	Number 354546 should separate every third digit with an underscore
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:35:	Number 354546 should separate every third digit with an underscore
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:40:	Number 334442 should separate every third digit with an underscore
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/BookRoomImplTest.java:40:	Number 334442 should separate every third digit with an underscore
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/HotelDetailsImplTest.java:7:	Each class should declare at least one constructor
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/HotelDetailsImplTest.java:7:	Each class should declare at least one constructor
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/HotelDetailsImplTest.java:7:	Header comments are required
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/HotelDetailsImplTest.java:7:	Header comments are required
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/HotelDetailsImplTest.java:7:	To avoid mistakes add a comment at the beginning of the HotelDetailsImplTest top-level class if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/HotelDetailsImplTest.java:7:	To avoid mistakes add a comment at the beginning of the HotelDetailsImplTest top-level class if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/HotelDetailsImplTest.java:9:	Use explicit scoping instead of the default package private level
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/HotelDetailsImplTest.java:9:	Use explicit scoping instead of the default package private level
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/HotelDetailsImplTest.java:10:	To avoid mistakes add a comment at the beginning of the test method if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/serviceimpl/HotelDetailsImplTest.java:10:	To avoid mistakes add a comment at the beginning of the test method if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:11:	Each class should declare at least one constructor
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:11:	Each class should declare at least one constructor
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:11:	Header comments are required
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:11:	Header comments are required
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:11:	To avoid mistakes add a comment at the beginning of the ValidCityTest top-level class if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:11:	To avoid mistakes add a comment at the beginning of the ValidCityTest top-level class if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:13:	Use explicit scoping instead of the default package private level
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:13:	Use explicit scoping instead of the default package private level
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:14:	JUnit tests should include assert() or fail()
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:14:	JUnit tests should include assert() or fail()
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:14:	To avoid mistakes add a comment at the beginning of the testValidAreaFail method if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:14:	To avoid mistakes add a comment at the beginning of the testValidAreaFail method if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:15:	Local variable 'validcity' could be declared final
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:15:	Local variable 'validcity' could be declared final
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:16:	Unnecessary use of fully qualified name 'Assertions.assertThrows' due to existing static import 'org.junit.jupiter.api.Assertions.*'
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:16:	Unnecessary use of fully qualified name 'Assertions.assertThrows' due to existing static import 'org.junit.jupiter.api.Assertions.*'
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:21:	Use explicit scoping instead of the default package private level
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:21:	Use explicit scoping instead of the default package private level
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:22:	To avoid mistakes add a comment at the beginning of the testValidAreaPass method if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:22:	To avoid mistakes add a comment at the beginning of the testValidAreaPass method if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:23:	Local variable 'validcity' could be declared final
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:23:	Local variable 'validcity' could be declared final
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:25:	Local variable 'testvar' could be declared final
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:25:	Local variable 'testvar' could be declared final
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:26:	JUnit assertions should include a message
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:26:	JUnit assertions should include a message
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:29:	Use explicit scoping instead of the default package private level
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:29:	Use explicit scoping instead of the default package private level
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:30:	JUnit tests should include assert() or fail()
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:30:	JUnit tests should include assert() or fail()
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:30:	To avoid mistakes add a comment at the beginning of the testValidCityFail method if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:30:	To avoid mistakes add a comment at the beginning of the testValidCityFail method if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:31:	Local variable 'validcity' could be declared final
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:31:	Local variable 'validcity' could be declared final
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:32:	Unnecessary use of fully qualified name 'Assertions.assertThrows' due to existing static import 'org.junit.jupiter.api.Assertions.*'
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:32:	Unnecessary use of fully qualified name 'Assertions.assertThrows' due to existing static import 'org.junit.jupiter.api.Assertions.*'
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:36:	Use explicit scoping instead of the default package private level
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:36:	Use explicit scoping instead of the default package private level
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:37:	To avoid mistakes add a comment at the beginning of the testValidCityPass method if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:37:	To avoid mistakes add a comment at the beginning of the testValidCityPass method if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:38:	Local variable 'validcity' could be declared final
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:38:	Local variable 'validcity' could be declared final
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:39:	Local variable 'testvar' could be declared final
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:39:	Local variable 'testvar' could be declared final
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:40:	JUnit assertions should include a message
+test/com/cg/onlinehotelmanagementsystem/utility/ValidCityTest.java:40:	JUnit assertions should include a message
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:8:	Avoid unused imports such as 'com.cg.onlinehotelmanagementsystem.exception.AreaNameException'
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:8:	Avoid unused imports such as 'com.cg.onlinehotelmanagementsystem.exception.AreaNameException'
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:12:	Each class should declare at least one constructor
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:12:	Each class should declare at least one constructor
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:12:	Header comments are required
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:12:	Header comments are required
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:12:	To avoid mistakes add a comment at the beginning of the ValidRoomTest top-level class if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:12:	To avoid mistakes add a comment at the beginning of the ValidRoomTest top-level class if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:14:	Use explicit scoping instead of the default package private level
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:14:	Use explicit scoping instead of the default package private level
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:15:	To avoid mistakes add a comment at the beginning of the testValidRoomPass method if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:15:	To avoid mistakes add a comment at the beginning of the testValidRoomPass method if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:16:	Local variable 'validroom' could be declared final
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:16:	Local variable 'validroom' could be declared final
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:17:	Local variable 'listdata' could be declared final
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:17:	Local variable 'listdata' could be declared final
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:18:	Local variable 'testvar' could be declared final
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:18:	Local variable 'testvar' could be declared final
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:19:	JUnit assertions should include a message
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:19:	JUnit assertions should include a message
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:21:	Use explicit scoping instead of the default package private level
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:21:	Use explicit scoping instead of the default package private level
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:22:	JUnit tests should include assert() or fail()
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:22:	JUnit tests should include assert() or fail()
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:22:	To avoid mistakes add a comment at the beginning of the testValidAreaFail method if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:22:	To avoid mistakes add a comment at the beginning of the testValidAreaFail method if you want a default access modifier
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:23:	Local variable 'validroom' could be declared final
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:23:	Local variable 'validroom' could be declared final
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:24:	Local variable 'listdata' could be declared final
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:24:	Local variable 'listdata' could be declared final
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:26:	Unnecessary use of fully qualified name 'Assertions.assertThrows' due to existing static import 'org.junit.jupiter.api.Assertions.*'
+test/com/cg/onlinehotelmanagementsystem/utility/ValidRoomTest.java:26:	Unnecessary use of fully qualified name 'Assertions.assertThrows' due to existing static import 'org.junit.jupiter.api.Assertions.*'

@@ -1,16 +1,19 @@
 package com.cg.onlinehotelmanagementsystem.service;
 
+import java.util.Date;
+import java.util.List;
 import java.util.Map;
 
 import com.cg.onlinehotelmanagementsystem.dto.BookingDetailsDTO;
+import com.cg.onlinehotelmanagementsystem.dto.RoomDetailsDTO;
 import com.cg.onlinehotelmanagementsystem.exception.CancelBookingException;
 import com.cg.onlinehotelmanagementsystem.exception.NoRoomAvailable;
 import com.cg.onlinehotelmanagementsystem.exception.PersonExceedException;
 import com.cg.onlinehotelmanagementsystem.exception.RoomAlreadyBookedException;
-import com.cg.onlinehotelmanagementsystem.staticdb.ListData;
+
 
 public interface IBookRoom {
-	Object bookRoom(Object object, int roomtype, ListData listdata, int numberperson, BookingDetailsDTO bookingdetails,int diffdays)
+	Object bookRoom(int roomType,Date checkIn,Date checkOut,int numberOfPerson)
 			throws PersonExceedException, RoomAlreadyBookedException, NoRoomAvailable;
 
 	Object cancelRoom(int id, Map<Integer, BookingDetailsDTO> cancelneedmap) throws CancelBookingException;

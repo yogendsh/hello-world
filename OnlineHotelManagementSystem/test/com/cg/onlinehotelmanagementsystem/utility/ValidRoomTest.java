@@ -4,8 +4,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-
-import com.cg.onlinehotelmanagementsystem.exception.AreaNameException;
 import com.cg.onlinehotelmanagementsystem.exception.RoomNameException;
 import com.cg.onlinehotelmanagementsystem.staticdb.ListData;
 

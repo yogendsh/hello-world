@@ -5,12 +5,11 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.cg.onlinehotelmanagementsystem.dto.ACRoomDetailsDTO;
+
 import com.cg.onlinehotelmanagementsystem.dto.BookingDetailsDTO;
 import com.cg.onlinehotelmanagementsystem.dto.HotelDetailsDTO;
-import com.cg.onlinehotelmanagementsystem.dto.KingRoomDetailsDTO;
-import com.cg.onlinehotelmanagementsystem.dto.NonACRoomDetailsDTO;
-import com.cg.onlinehotelmanagementsystem.dto.QueenRoomDetailsDTO;
+import com.cg.onlinehotelmanagementsystem.dto.RoomDetailsDTO;
+
 
 public class ListData {
 	public void puneHotelList()
@@ -148,37 +147,14 @@ public class ListData {
 		return hotellist;
 	}
 	@SuppressWarnings("rawtypes")
-	public List kingRoomList()
+	public List roomList()
 	{
-		List<KingRoomDetailsDTO> kingroomdetail=new ArrayList<>();
-		kingroomdetail.add(new KingRoomDetailsDTO(1, false, 3000, 3));
-		return kingroomdetail;
+		List<RoomDetailsDTO> roomdetail=new ArrayList<>();
+		return roomdetail;
 		
 	}
-	@SuppressWarnings("rawtypes")
-	public List queenRoomList()
-	{
-		List<QueenRoomDetailsDTO> queenroomdetail=new ArrayList<>();
-		queenroomdetail.add(new QueenRoomDetailsDTO(1,false,2800,2));
-		return queenroomdetail;
-		
-	}
-	@SuppressWarnings("rawtypes")
-	public List acRoomList()
-	{
-		List<ACRoomDetailsDTO> acroomdetail=new ArrayList<>();
-		acroomdetail.add(new ACRoomDetailsDTO(1, false, 2500, 2));
-		return acroomdetail;
-		
-	}
-	@SuppressWarnings("rawtypes")
-	public List nonACRoomList()
-	{
-		List<NonACRoomDetailsDTO> nonacroomdetail=new ArrayList<>();
-		nonacroomdetail.add(new NonACRoomDetailsDTO(1, false, 2000, 2));
-		return nonacroomdetail;
-		
-	}
+	
+	
 	@SuppressWarnings("rawtypes")
 	public List typeOfRoom()
 	{
